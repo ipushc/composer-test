@@ -1,5 +1,5 @@
 <?php
-namespace ipushs\Push;
+namespace ipushs\push;
 
 class Base {
 
