@@ -5,6 +5,7 @@
     "require": {
             "php": ">=5.3.3"
     },
+    "type": "library",
     "authors": [
         {
             "name": "ken",
