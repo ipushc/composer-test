@@ -1,0 +1,20 @@
+{
+    "name": "ken/ipushs",
+    "license": "MIT",
+    "description": "測試",
+    "require": {
+            "php": ">=5.3.3"
+    },
+    "authors": [
+        {
+            "name": "ken",
+            "email": "kfrico@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ipushs\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
