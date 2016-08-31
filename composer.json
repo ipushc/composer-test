@@ -1,5 +1,5 @@
 {
-    "name": "ipushs/push",
+    "name": "red/ipushs",
     "license": "MIT",
     "description": "測試",
     "require": {
@@ -14,7 +14,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "\\": "src/"
+            "rde\\": "src/"
         }
     },
     "minimum-stability": "stable"
