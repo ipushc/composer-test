@@ -1,5 +1,5 @@
 <?php
-namespace rde\push;
+namespace Rde\Push;
 
 class Base {
 
